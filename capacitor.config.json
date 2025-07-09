@@ -1,0 +1,5 @@
+{
+  "appId": "com.saqib.postureapp",
+  "appName": "Posture_Detector",
+  "webDir": "dist"
+}
