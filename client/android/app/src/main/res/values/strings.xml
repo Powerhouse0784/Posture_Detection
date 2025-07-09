@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Posture_Detector</string>
+    <string name="title_activity_main">Posture_Detector</string>
+    <string name="package_name">com.pwc.PostureDetector</string>
+    <string name="custom_url_scheme">com.pwc.PostureDetector</string>
+</resources>
